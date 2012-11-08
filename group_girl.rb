@@ -32,4 +32,4 @@ class GroupGirl
     end
 end
 
-GroupGirl.get_confessions("http://web.archive.org/web/20071025014638/http://grouphug.us/")
+##GroupGirl.get_confessions("http://web.archive.org/web/20071025014638/http://grouphug.us/")
